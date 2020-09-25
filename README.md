@@ -17,7 +17,7 @@
 
 Prethodno potrebna instalacija NodeJS (v12.14.0 ili novija)
 
-- Klonirati repozitorijum
+- git clone https://github.com/nbrajic/Movie_App.git
 - npm install
 
 ## Pokretanje projekta
