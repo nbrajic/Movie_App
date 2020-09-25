@@ -37,3 +37,4 @@ Prethodno potrebna instalacija NodeJS (v12.14.0 ili novija)
 - Ocenivanje povezano sa API-jem i za filmove i za serije, mogućnost pravljenja watchlist-a nakon logovanja - (axios POST, DELETE)
 - Stranica za epizode serija na koju se dolazi klikom na sezonu na info stranici serije
 - Više informacija za serije i filmove
+- Mogućnost izbora light/dark teme
