@@ -31,7 +31,7 @@ Prethodno potrebna instalacija NodeJS (v12.14.0 ili novija)
 - Svaka komponenta filma/serije napravljena je pomoću react-flippy biblioteke pri čemu prednja strana predstavlja poster filma/serije, a zadnja sadrži dodatne informacije i link ka info stranici. 
 - Na info stranici filmova, deo sa slikama iz filma i deo sa preporučenim filmovima napravljeni su pomoću react-bootstrap/Carousel. Deo sa preporučenim filmovima klikom vodi na info stranicu tog filma.
 
-## Planirane izmene za budućnost:
+### Planirane izmene za budućnost:
 
 - Ocenivanje povezano sa API-jem i za filmove i za serije, mogućnost pravljenja watchlist-a nakon logovanja - (axios POST, DELETE)
 - Stranica za epizode serija na koju se dolazi klikom na sezonu na info stranici serije
